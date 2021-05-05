@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="f09959d0-a61c-4e05-902b-d550acc6d9ff" name="FunctionalTests" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="f09959d0-a61c-4e05-902b-d550acc6d9fffileName">FunctionalTests</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
