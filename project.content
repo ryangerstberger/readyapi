@@ -1,8 +1,10 @@
-http%3A%2F%2Flocalhost%3A8080\GetTeachers.xml
 http%3A%2F%2Flocalhost%3A8080\GetStudents.xml
-http%3A%2F%2Flocalhost%3A8080\addTeacher.xml
+http%3A%2F%2Flocalhost%3A8080\GetTeachers.xml
 http%3A%2F%2Flocalhost%3A8080\addStudent.xml
-http%3A%2F%2Flocalhost%3A8080\deleteTeacher.xml
+http%3A%2F%2Flocalhost%3A8080\addTeacher.xml
 http%3A%2F%2Flocalhost%3A8080\deleteStudent.xml
+http%3A%2F%2Flocalhost%3A8080\deleteTeacher.xml
+http%3A%2F%2Flocalhost%3A8080\getSchool.xml
 FunctionalTests\Add-Get-Delete-Get-Teachers.xml
 FunctionalTests\Add-Get-Delete-Get-Student.xml
+FunctionalTests\Get-School.xml
